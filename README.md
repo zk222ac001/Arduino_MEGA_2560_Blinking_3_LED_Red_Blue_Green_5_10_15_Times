@@ -1,1 +1,1 @@
-# Arduino_MEGA_2560_Blinking_3_LED_Red_Blue_Green_5_10_15_Times
+## Multicolor LED Blink Control (Arduino MEGA 2560)
