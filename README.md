@@ -1,1 +1,1 @@
-## Multicolor LED Blink Control (Arduino MEGA 2560)
+# Multicolor LED Blink Control (Arduino MEGA 2560)
